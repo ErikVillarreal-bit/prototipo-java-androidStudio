@@ -1,5 +1,5 @@
 # Prototipo-Java-Android-Studio
-![Image1](https://user-images.githubusercontent.com/61395827/97239798-1e020b00-17b2-11eb-902e-2c3f4396a1c6.jpg){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/61395827/97239798-1e020b00-17b2-11eb-902e-2c3f4396a1c6.jpg" alt="Image1" width="400" height="790">
 
 
 

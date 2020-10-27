@@ -11,7 +11,7 @@ Project is created with:
 
 ## IDE
 * Android Studio 4.0
-# Download here: https://developer.android.com/studio
+### Download here: https://developer.android.com/studio
 
 ## Setup
 To run this project:

@@ -1,7 +1,9 @@
 # Prototipo-Java-Android-Studio
 <div class="pull-right">
-  <img src="https://user-images.githubusercontent.com/61395827/97239798-1e020b00-17b2-11eb-902e-2c3f4396a1c6.jpg" alt="Image1" width="300" height="590">
-  <img src="https://user-images.githubusercontent.com/61395827/97239826-2fe3ae00-17b2-11eb-8ff0-deaad865de5c.jpg" alt="Image2" width="300" height="590">
+  <center>
+    <img src="https://user-images.githubusercontent.com/61395827/97239798-1e020b00-17b2-11eb-902e-2c3f4396a1c6.jpg" alt="Image1" width="300" height="590">
+    <img src="https://user-images.githubusercontent.com/61395827/97239826-2fe3ae00-17b2-11eb-8ff0-deaad865de5c.jpg" alt="Image2" width="300" height="590">
+  </center>
 </div>
 
 Preview
